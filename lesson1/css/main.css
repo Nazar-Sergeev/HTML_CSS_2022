@@ -1,0 +1,33 @@
+body{
+    background: silver;
+}
+
+img{
+    width: 200px;
+}
+
+p{
+    text-align: justify;
+}
+
+.t-align-c{
+    text-align: center;
+}
+
+.d-flex{
+    display: flex;
+    justify-content: space-around;
+}
+
+.w-350{
+    width: 350px;
+}
+
+h4{
+    text-shadow: 1px 1px 1px red;
+}
+
+h1{
+    font-size: 70px;
+    text-shadow: 1px 1px 8px #f6df08;
+}

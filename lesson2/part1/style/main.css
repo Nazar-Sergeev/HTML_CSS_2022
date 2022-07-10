@@ -1,0 +1,49 @@
+.wrap{
+    width: 700px;
+    margin: auto;
+    color: #fff;
+    font-size: 20px;
+}
+
+.block-1{
+    background: #20208c;
+
+    height: 250px;
+    border-radius: 3px;
+}
+
+.block-2{
+    display: flex;
+    justify-content: space-between;
+
+    height: 250px;
+    margin: 20px 0;
+
+}
+
+.block-3{
+    background: #20208c;
+
+    height: 400px;
+    border-radius: 3px;
+
+}
+
+.box{
+    background: cornflowerblue;
+
+    width: 100%;
+    border-radius: 3px;
+
+}
+
+.margin-r{
+    margin-right: 20px;
+}
+
+.d-flex-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+

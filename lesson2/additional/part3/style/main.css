@@ -1,0 +1,36 @@
+body{
+    background: #08bcd4;
+}
+
+.wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:auto 30px;
+    width: 150px;
+    font-size: 50px;
+    color: #9d9d9d;
+}
+
+.box{
+    background: #ffffff;
+    display: flex;
+    border-radius: 5px;
+    width: 500px;
+    margin-top: 20px;
+}
+
+.text > p {
+    padding: 0 30px 25px 0;
+}
+
+.text > h3{
+    color: #ff911c;
+}

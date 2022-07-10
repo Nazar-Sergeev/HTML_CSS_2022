@@ -1,0 +1,43 @@
+
+.wrap{
+    display: flex;
+    justify-content: space-between;
+
+    width: 1000px;
+    margin: auto;
+}
+
+.box{
+    box-sizing: border-box;
+    border: 1px solid black;
+    text-align: center;
+
+    width: 300px;
+    min-height: 300px;
+}
+
+.box > h2{
+    margin-top: 60px;
+}
+
+.box > p{
+    padding: 0 20px;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    box-sizing: border-box;
+
+    border: 1px solid black;
+    width: 80%;
+    height: 50px;
+    margin:30px auto;
+}
+
+.btn > a{
+    text-decoration: none;
+    color: black;
+}
